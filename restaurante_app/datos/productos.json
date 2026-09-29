@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nombre": "Tamales de pollo",
+        "precio": 1.5,
+        "categoria": "Sin categoria"
+    },
+    {
+        "id": 2,
+        "nombre": "Humitas",
+        "precio": 1.0,
+        "categoria": "Sin categoria"
+    },
+    {
+        "id": 3,
+        "nombre": "Papas fritas",
+        "precio": 2.0,
+        "categoria": "Sin categoria"
+    },
+    {
+        "id": 4,
+        "nombre": "Coca Cola",
+        "precio": 0.75,
+        "categoria": "Sin categoria"
+    },
+    {
+        "id": "1",
+        "nombre": "Tamales de pollo",
+        "precio": 1.5,
+        "categoria": "sin categoria"
+    }
+]
